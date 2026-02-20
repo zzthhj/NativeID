@@ -247,5 +247,5 @@ Toegang alleen voor het lokaal maken van pasfoto's.
 rtx3070757@gmail.com
 
 ---
-© 2026 YourName. All rights reserved.  
+© 2026 zhangzhentao. All rights reserved.  
 **Support:** rtx3070757@gmail.com
